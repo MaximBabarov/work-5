@@ -1,0 +1,6 @@
+﻿  work.c
+C:\Users\Matsu\source\repos\work 5\work 5\work.c(22,2): warning C4013: homework: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Matsu\source\repos\work 5\work 5\work.c(43,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Matsu\source\repos\work 5\work 5\work.c(44,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Matsu\source\repos\work 5\work 5\work.c(45,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  work 5.vcxproj -> C:\Users\Matsu\source\repos\work 5\x64\Debug\work 5.exe
