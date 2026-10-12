@@ -12,14 +12,17 @@
 
 #include <stdio.h>
 
-work1();
-work2();
+int work1();
+int work2();
+int homework();
 
-void main()
-
+int main()
 {
-	setlocale(LC_ALL, "RUS"); // для переключения русской кодировки
+	setlocale(LC_ALL, "RUS");
+	work1();
+	work2();
 	homework();
+	return 0;
 }
 
 int work1()
